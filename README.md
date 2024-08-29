@@ -1,4 +1,5 @@
 I have created endpoints separately for students and mentors.
+Also, I have used lookup function to collect the names from the two collections.
 
 Student:
 1. getAllStudents - https://assign-mentor-neqc.onrender.com/students/getAllStudents
